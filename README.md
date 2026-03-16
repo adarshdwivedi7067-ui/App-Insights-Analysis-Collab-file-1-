@@ -61,5 +61,5 @@ The mobile app market is highly competitive. To succeed, companies need to under
 ##  Project Structure  
 - `googleplaystore.csv` → Raw dataset used for analysis  
 - `App_Insights_Analysis.ipynb` → Complete Python source code & visualizations  
-- `EDA_Report.pdf` → Comprehensive documentation & findings summary  
+- `EDA_Report.pdf1` → Comprehensive documentation & findings summary  
 - `README.md` → Executive summary & project documentation  
